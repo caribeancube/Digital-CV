@@ -22,7 +22,7 @@ Astute process engineer with over 20 years of experience in the semiconductor in
 #### SEPTEMBER  2006 - JUNE 2022
 [Cornell NanoScale Facility](https://www.cnf.cornell.edu/), Ithaca NY 
 - *Photolithography Process Engineer / Research Support Specialist II*
-	- I manage overall process control, training,  and maintenance for over 24 individual machines. I have purchased, installed, developed processes and the associated documentation, created training manuals, webpages, and training videos, maintained, re-engineered, and decommissioned Semiconductor Capital Equipment.  I also support CNF resident and non-resident user projects in my areas of expertise.
+	- I managed overall process control, training, and maintenance for over 24 individual machines. Some of my responsibilities included purchasing, installing, develop processes, training manuals, training videos, and web pages. At times I had to re-engineer critical parts and decommission some of this capital equipment. I also technical support for CNF resident and non-resident user projects in my areas of expertise.
 	- Annually I have prevented hundreds of hours of machine downtime and saved over $100K in costs by designing and manufacturing parts from a wide range of materials. I have implemented novel ideas as hardware and software additions to improve the overall usage and performance of equipment.
 	- My inquisitive mind keeps me on top of new technology, and I have developed an exceptionally strong ability to quickly teach myself how to optimize machines and processes.  
 	- My work done to show CNF’s capabilities on through [the Nano-Size McGraw Clock Tower](https://www.cnf.cornell.edu/highlights/tools/nanoscribe/clocktower) has been featured in a handful of news outlets. 
@@ -30,7 +30,7 @@ Astute process engineer with over 20 years of experience in the semiconductor in
 ### FEBRUARY 2005 - MARCH 2006
 [GE Research](https://www.ge.com/research/research-engine/rd-facilities/niskayuna), Niskayuna NY 
 - *Lithography Technician*
-	- Manufactured state of the art large field of view Tomography Sensors, and processed production LOTs under strict federal 21 CFR 820, ISO 9001, and 13485 regulations.
+	- Manufactured state-of-the-art large field of view Tomography Sensors, and processed production LOTs under strict federal 21 CFR 820, ISO 9001, and 13485 regulations.
 
 ### MAY 2003 - SEPTEMBER 2003 
 [Semiconductor and Microsystems Fabrication Laboratory](http://www.smfl.rit.edu/), Rochester NY 
@@ -40,11 +40,11 @@ Astute process engineer with over 20 years of experience in the semiconductor in
 ### SEPTEMBER  2000 - SEPTEMBER 2002 
 [Semiconductor and Microsystems Fabrication Laboratory](http://www.smfl.rit.edu/), Rochester NY 
 - *Part-time Technician for line-maintenance* 
-	- Supported with process tool life cycle, maintenance, and in-lab construction projects.
+	- Supported process tool life cycle, maintenance, and in-lab construction projects.
 ***
 ## Education
 ### SEPTEMBER 1999 - MAY 2005
-[Rochester Institute of Technology](https://www.rit.edu/), Rochester NY - *Bachelor Degree in Microelectronic Engineering*
+[Rochester Institute of Technology](https://www.rit.edu/), Rochester NY - *Bachelor's Degree in Microelectronic Engineering*
 - Graduated with a concentration in Philosophy. 
 ***
 ## Interests
